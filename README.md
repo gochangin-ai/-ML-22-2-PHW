@@ -5,10 +5,10 @@
 + Various values for the hyperparameters
 + Various numbers 𝑘 for 𝑘-fold cross validation
 
-## Code with User Manual <
-## Results < 
+## [Code with User Manual](https://github.com/gochangin-ai/ML-PHW1/blob/main/README.md#Code With User Manual) <
+## [Results](https://github.com/gochangin-ai/ML-PHW1/blob/main/README.md#results) <
 
-
+# Code With User Manual
 ## Importing necessary libraries
 #### Make sure that you have all these libaries available to run the code successfully
 ```python
