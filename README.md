@@ -5,7 +5,7 @@
 + Various values for the hyperparameters
 + Various numbers 𝑘 for 𝑘-fold cross validation
 
-## [Code with User Manual](https://github.com/gochangin-ai/ML-PHW1/blob/main/README.md#Code With User Manual) <
+## [Code with User Manual](https://github.com/gochangin-ai/ML-PHW1/blob/main/README.md#code-with-user-manual) <
 ## [Results](https://github.com/gochangin-ai/ML-PHW1/blob/main/README.md#results) <
 
 # Code With User Manual
@@ -338,3 +338,4 @@ kfold(scalers,models,x_training_set, x_test_set, y_training_set, y_test_set,k)
 ![텍스트](result/image18.png)
 ![텍스트](result/image19.png)
 ![텍스트](result/image20.png)
+## More results on result folder ! 
