@@ -1,4 +1,14 @@
 # ML-PHW1
+## Compare the performance (i.e., accuracy) of the following classification models against the same dataset.
++ Various data scaling methods and encoding methods
++ Various values of the model parameters for each model
++ Various values for the hyperparameters
++ Various numbers 𝑘 for 𝑘-fold cross validation
+
+## Code with User Manual <
+## Results < 
+
+
 ## Importing necessary libraries
 #### Make sure that you have all these libaries available to run the code successfully
 ```python
@@ -304,3 +314,27 @@ data , target = DataProcessing(data_path)
 x_training_set, x_test_set, y_training_set, y_test_set = train_test_split(data, target, test_size=0.10, random_state=42, shuffle=True)
 kfold(scalers,models,x_training_set, x_test_set, y_training_set, y_test_set,k)
 ```
+
+
+# Results
+
+![텍스트](result/image1.png)
+![텍스트](result/image2.png)
+![텍스트](result/image3.png)
+![텍스트](result/image4.png)
+![텍스트](result/image5.png)
+![텍스트](result/image6.png)
+![텍스트](result/image7.png)
+![텍스트](result/image8.png)
+![텍스트](result/image9.png)
+![텍스트](result/image10.png)
+![텍스트](result/image11.png)
+![텍스트](result/image12.png)
+![텍스트](result/image13.png)
+![텍스트](result/image14.png)
+![텍스트](result/image15.png)
+![텍스트](result/image16.png)
+![텍스트](result/image17.png)
+![텍스트](result/image18.png)
+![텍스트](result/image19.png)
+![텍스트](result/image20.png)
